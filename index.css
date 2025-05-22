@@ -25,12 +25,10 @@ body {
   position: absolute;
   top: 20px;
   left: 20px;
-  padding-left: 50px;
-  padding-right: 50px;
 }
 
 .email a {
-  color: #cfcfcf;
+  color: #468b8c;
   text-decoration: none;
   font-size: 14px;
 }
@@ -57,11 +55,11 @@ h1 {
 
 .tagline {
   font-size: 20px;
-  color: #cfcfcf;
+  color: #cccccc;
 }
 
 .footer {
   text-align: center;
   font-size: 14px;
-  color: #cfcfcf;
+  color: #cccccc;
 }
